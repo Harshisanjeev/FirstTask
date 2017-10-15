@@ -1,2 +1,0 @@
-# FirstTask
-Natural Language Processing
